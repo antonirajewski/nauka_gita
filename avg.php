@@ -4,5 +4,8 @@ function srednia (a, b)
 }
 function srednia_wazona (a,b)
 {
+<<<<<<< HEAD
 	return 0.7*a+0.3b;
+=======
+>>>>>>> konflikt
 }
